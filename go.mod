@@ -1,4 +1,4 @@
-module github.com/silinternational/certmagic-storage-dynamodb/v3
+module github.com/ftbpro/certmagic-storage-dynamodb/v3
 
 go 1.17
 
