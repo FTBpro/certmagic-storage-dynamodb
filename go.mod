@@ -11,7 +11,6 @@ require (
 	github.com/alecthomas/kong-hcl v0.1.8-0.20190615233001-b21fea9723c8 // indirect
 	github.com/alecthomas/repr v0.0.0-20180818092828-117648cd9897 // indirect
 	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5 // indirect
-	github.com/aws/aws-sdk-go v1.43.26
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
 	github.com/caddyserver/caddy/v2 v2.5.0-beta.1.0.20220325185629-b4f1a713978f
 	github.com/caddyserver/certmagic v0.16.0
